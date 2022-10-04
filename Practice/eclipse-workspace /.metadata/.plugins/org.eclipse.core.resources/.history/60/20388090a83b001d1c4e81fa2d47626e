@@ -1,0 +1,12 @@
+package com.bptn.course1;
+
+public class practiceCodes {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		System.out.println("Types of Jordans");
+		
+	}
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;team-two-practice-exercise/mohamudfile&apos; to &apos;mohamudfile.txt&apos;" description="Rename resource &apos;mohamudfile&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="mohamudfile" name="mohamudfile.txt" stamp="1664550039692" updateReferences="true"/>
+</session>
